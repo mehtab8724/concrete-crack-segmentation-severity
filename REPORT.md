@@ -3,9 +3,7 @@
 **Using U-Net: A Comparison of Random and Pretrained Encoder
 Initialization**
 
-Deep Learning Course Project
 
-Mehtab Ahmed (PGD/DSAI/DEC-25/309192)
 
 # Introduction
 
